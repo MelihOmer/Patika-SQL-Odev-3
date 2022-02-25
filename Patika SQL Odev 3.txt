@@ -1,0 +1,4 @@
+--(Ödev 3 Soru 1)select * from country where country like 'A%a'
+--(Ödev 3 Soru 2)select * from country where country like '_____%n'
+--(Ödev 3 Soru 3)select * from film where title ~~*'t___%' or title ~~*'_t__%' or title ~~*'__t_%'  or title ~~*'___t%'
+--(Ödev 3 Soru 4)select * from film where title like 'C%' AND length > 90 and rental_rate = 2.99
